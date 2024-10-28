@@ -1,0 +1,6 @@
+name: us_passport
+channels:
+  - javascript
+dependencies:
+  - python=3.13
+  - Pillow
